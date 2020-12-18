@@ -22,6 +22,9 @@
       <find>&lt;meta name=&quot;csrf-token&quot; content=&quot;{{ csrf_token() }}&quot;&gt;</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -159,6 +162,7 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1lq3rsC7e99bkYSNXgsKUXXf0Ng" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -213,7 +217,7 @@
       <workItem from="1598328724048" duration="7819000" />
       <workItem from="1598369575931" duration="16000" />
       <workItem from="1608311004351" duration="24000" />
-      <workItem from="1608311029610" duration="731000" />
+      <workItem from="1608311029610" duration="1526000" />
     </task>
     <servers />
   </component>
